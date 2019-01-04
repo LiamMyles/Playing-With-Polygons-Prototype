@@ -1,13 +1,14 @@
 {
-  "main.css": "/Playing-With-Polygons-Prototype/static/css/main.c67e8adb.chunk.css",
-  "main.js": "/Playing-With-Polygons-Prototype/static/js/main.61e19f91.chunk.js",
-  "main.js.map": "/Playing-With-Polygons-Prototype/static/js/main.61e19f91.chunk.js.map",
-  "static/js/1.d257a20f.chunk.js": "/Playing-With-Polygons-Prototype/static/js/1.d257a20f.chunk.js",
-  "static/js/1.d257a20f.chunk.js.map": "/Playing-With-Polygons-Prototype/static/js/1.d257a20f.chunk.js.map",
+  "main.css": "/Playing-With-Polygons-Prototype/static/css/main.4246b40c.chunk.css",
+  "main.js": "/Playing-With-Polygons-Prototype/static/js/main.f147091a.chunk.js",
+  "main.js.map": "/Playing-With-Polygons-Prototype/static/js/main.f147091a.chunk.js.map",
+  "static/js/1.fa92c112.chunk.js": "/Playing-With-Polygons-Prototype/static/js/1.fa92c112.chunk.js",
+  "static/js/1.fa92c112.chunk.js.map": "/Playing-With-Polygons-Prototype/static/js/1.fa92c112.chunk.js.map",
   "runtime~main.js": "/Playing-With-Polygons-Prototype/static/js/runtime~main.2e026bc0.js",
   "runtime~main.js.map": "/Playing-With-Polygons-Prototype/static/js/runtime~main.2e026bc0.js.map",
-  "static/css/main.c67e8adb.chunk.css.map": "/Playing-With-Polygons-Prototype/static/css/main.c67e8adb.chunk.css.map",
+  "static/media/logo.svg": "/Playing-With-Polygons-Prototype/static/media/logo.ee7cd8ed.svg",
+  "static/css/main.4246b40c.chunk.css.map": "/Playing-With-Polygons-Prototype/static/css/main.4246b40c.chunk.css.map",
   "index.html": "/Playing-With-Polygons-Prototype/index.html",
-  "precache-manifest.9e1e48ba66f0e910feaf231f575a228a.js": "/Playing-With-Polygons-Prototype/precache-manifest.9e1e48ba66f0e910feaf231f575a228a.js",
+  "precache-manifest.8f682179b676577390168bb8babd19d8.js": "/Playing-With-Polygons-Prototype/precache-manifest.8f682179b676577390168bb8babd19d8.js",
   "service-worker.js": "/Playing-With-Polygons-Prototype/service-worker.js"
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Playing-With-Polygons-Prototype/precache-manifest.9e1e48ba66f0e910feaf231f575a228a.js"
+  "/Playing-With-Polygons-Prototype/precache-manifest.8f682179b676577390168bb8babd19d8.js"
 );
 
 workbox.clientsClaim();
