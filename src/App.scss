@@ -1,0 +1,11 @@
+.controls {
+  fieldset > div {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr 2fr);
+    grid-gap: 10px;
+  }
+  p,
+  h1 {
+    padding: 0 0 0 10px;
+  }
+}
